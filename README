@@ -1,22 +1,25 @@
 ==
-         __                      ___ __ 
-    ____/ /___  ______________  / (_) /_
-   / __  / __ \/ ___/ ___/ __ \/ / / __/
-  / /_/ / /_/ / /__(__  ) /_/ / / / /_  
-  \____/\____/\___/____/ .___/_/_/\__/  
-                      /_/
+
+       __                              __    _   _                           
+      |  ]                            [  |  (_) / |_                         
+  .--.| |  .--.   .---.  .--.  _ .--.  | |  __ `| |-'______  _ .--.   .--./) 
+/ /'`\' |/ .'`\ \/ /'`\]( (`\][ '/'`\ \| | [  | | | |______|[ `.-. | / /'`\; 
+| \__/  || \__. || \__.  `'.'. | \__/ || |  | | | |,         | | | | \ \._// 
+ '.__.;__]'.__.' '.___.'[\__) )| ;.__/[___][___]\__/        [___||__].',__`  
+                              [__|                                  ( ( __)) 
                       
-  Docsplit is a command-line utility and Ruby library for splitting apart
+  
+  Docsplit-ng is a command-line utility and Ruby library for splitting apart
   documents into their component parts: searchable UTF-8 plain text, page 
   images or thumbnails in any format, PDFs, single pages, and document 
   metadata (title, author, number of pages...)
   
   Installation:
-  gem install docsplit
+  gem install docsplit-ng
   
   For documentation, usage, and examples, see:
-  https://documentcloud.github.io/docsplit/
+  https://github.com/HLFH/docsplit-ng/
   
   To suggest a feature or report a bug: 
-  http://github.com/documentcloud/docsplit/issues/
+  https://github.com/HLFH/docsplit-ng/issues/
 
