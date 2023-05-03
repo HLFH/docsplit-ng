@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.executables       = ['docsplit']
 
   s.files = Dir['build/**/*', 'lib/**/*', 'bin/*', 'vendor/**/*',
-                'docsplit.gemspec', 'LICENSE', 'README']
+                'docsplit-ng.gemspec', 'LICENSE', 'README']
 end
